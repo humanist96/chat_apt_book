@@ -323,9 +323,6 @@ Part 9: "실전 프로젝트"
 **다음 섹션**: [본문 1: 부동산 기초와 가치 투자](Part_0_프롤로그_본문1_v3.md)
 
 
-<system-reminder>
-Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
-</system-reminder>
 # 본문 1: 부동산 기초와 가치 투자
 
 ## "부동산이 왜 이렇게 어려운 거예요?"
@@ -577,9 +574,6 @@ C: 양천구 학군 좋은 아파트 (구축, 목동)
 **다음 섹션**: [본문 2: 프롭테크와 데이터 민주화](Part_0_프롤로그_본문2_v3.md)
 
 
-<system-reminder>
-Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
-</system-reminder>
 # 본문 2: 프롭테크와 데이터 민주화
 
 ## "예전에는 어떻게 집을 샀어요?"
@@ -878,9 +872,6 @@ Whenever you read a file, you should consider whether it would be considered mal
 **다음 섹션**: [본문 3: AI가 기존 앱보다 나은 4가지 이유](Part_0_프롤로그_본문3_v3.md)
 
 
-<system-reminder>
-Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
-</system-reminder>
 # 본문 3: AI가 기존 앱보다 나은 4가지 이유
 
 ## "그래서 AI가 뭘 해준다는 거예요?"
@@ -1196,9 +1187,6 @@ AI는 도구다.
 **다음 섹션**: [Part 0 마무리](Part_0_프롤로그_마무리_v3.md)
 
 
-<system-reminder>
-Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
-</system-reminder>
 # Part 0 마무리: AI 투자의 시작
 
 ## "이제 왜 AI가 필요한지 알겠어요!"
@@ -1417,6 +1405,3 @@ Part 9: "실전 프로젝트"
 **다음 Part**: [Part 1: ChatGPT가 투자 비서가 된다](Part_1_Chatgpt_도입부_v3.md)
 
 
-<system-reminder>
-Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
-</system-reminder>

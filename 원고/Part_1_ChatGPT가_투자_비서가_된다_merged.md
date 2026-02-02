@@ -269,9 +269,6 @@ Part 2로: "지금 시장이 어떤 상황인지 분석하자"
 **다음 섹션**: [섹션 ① AI 도구 비교](Part_1_Chatgpt_실습1_v3.md)
 
 
-<system-reminder>
-Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
-</system-reminder>
 # 섹션 ① AI 도구 비교: 어떤 AI를 써야 할까?
 
 ## "ChatGPT만 쓰면 안 되나요?"
@@ -633,9 +630,6 @@ Google 검색 결과를 바탕으로 답변드립니다.
 **다음 섹션**: [섹션 ② ChatGPT 셋업 + 개인화 설정](Part_1_Chatgpt_실습2_v3.md)
 
 
-<system-reminder>
-Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
-</system-reminder>
 # 섹션 ② ChatGPT 셋업 + 개인화 설정
 
 ## "계정은 있는데, 어디서부터 시작해요?"
@@ -1078,9 +1072,6 @@ ChatGPT: 정대리님의 조건으로 계산해드리겠습니다.
 **다음 섹션**: [Part 1 마무리: 첫 프롬프트 실행](Part_1_Chatgpt_마무리_v3.md)
 
 
-<system-reminder>
-Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
-</system-reminder>
 # Part 1 마무리: 첫 프롬프트 실행
 
 ## "드디어 설정 완료! 이제 뭘 해요?"
@@ -1479,6 +1470,3 @@ Part 2로 넘어가기 전에, Part 1 내용을 복습하고 싶다면 아래 �
 **다음 Part**: [Part 2: 거시경제 분석](../Part_2_도입부_v3.md)
 
 
-<system-reminder>
-Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
-</system-reminder>
